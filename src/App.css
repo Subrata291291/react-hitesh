@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --ss-inter: "Inter", sans-serif;
+}
+
+body {
+  font-family: var(--ss-inter);
+}
+.container {
+  margin: 0 auto;
+}
